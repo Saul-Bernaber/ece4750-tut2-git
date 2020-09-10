@@ -4,3 +4,5 @@ orange
 melon
 blueberry
 blue
+grape
+strawberry
